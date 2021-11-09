@@ -1,0 +1,65 @@
+*{padding: 0; 
+    margin: 0}
+
+    header{
+        height: 100px;
+        width: 100%;
+        background-color: #ffffff;
+        opacity: 70%;
+        
+        
+    }
+
+    .logo{
+        height:70px;
+        width: 140px;
+        margin-left: 100px;
+        margin-top: 6px;
+        float: left;
+    }
+
+    body{
+        background-image: url(../img/k2.jpg);
+        background-size: 100%;
+        background-repeat: no-repeat;
+    
+    }
+
+    .damn{
+        width: 500px;
+        height: 100px;
+        align-content: center;
+    
+    }
+
+    .cont{
+        margin-left: 350px;
+        margin-top: 60px;
+    }
+
+    .error{    
+        font-family: 'Archivo Black', sans-serif;
+        font-size: 25px;
+    color: rgb(219, 64, 37);
+    
+    
+    }
+
+    .musica{
+        
+        color:rgb(219, 64, 37) ;
+        background-color: #ffffff;
+    }
+
+    .splash{
+        margin-top: 60px;
+        margin-left: 650px;
+        
+    }
+
+    .sangre{
+        height: 150px;
+        width: 250px;
+
+    }
+
